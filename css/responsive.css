@@ -1,0 +1,1026 @@
+@media screen and (max-width : 1380px) {
+    header {
+        height: 555.59px;
+    }
+
+    nav {
+        height: 73.76px;
+        gap: 31px;
+    }
+
+    .navbar-links {
+        font-size: 14.38px;
+        line-height: 21.56px;
+    }
+
+    .h-content {
+        height: 480px;
+    }
+
+    .h-main {
+        width: 495px;
+        height: 104px;
+        font-size: 34.5px;
+        line-height: 52.33px;
+    }
+
+    .h-btn {
+        margin-top: 47px;
+        width: 176.09px;
+        height: 46px;
+        border-radius: 3.59px;
+        font-size: 15.09px;
+        line-height: 22.9px;
+    }
+
+    .it-head {
+        margin-top: 72px;
+        height: 52px;
+        font-size: 34.5px;
+        line-height: 52.33px;
+    }
+
+    .image-slider {
+        margin-top: 72px;
+        height: 286.06px;
+        gap: 18px;
+    }
+
+    .it-img {
+        height: 335.66px;
+        width: 286.06px;
+    }
+
+    .overlay-img1 {
+        height: 335.66px;
+        width: 286.06px;
+    }
+
+    .o-h {
+        margin-top: 22px;
+        margin-left: 21px;
+        font-size: 15.681px;
+        line-height: 23.786px;
+    }
+
+    .o-p {
+        margin-top: 27px;
+        margin-left: 21px;
+        font-size: 10.977px;
+        line-height: 16.65px;
+    }
+
+    .o-link {
+        /* margin-top: 22px; */
+        margin-left: 21px;
+        font-size: 14.113px;
+        line-height: 21.408px;
+    }
+
+    .c-1 {
+        left: 129px;
+    }
+
+    .c-2 {
+        left: 737px;
+    }
+
+    .fa {
+        margin-top: 71px;
+        /* Change for Dot Navigation*/
+        height: 528.28px;
+    }
+
+    .fg-h {
+        padding: 71px 0px;
+        height: 40px;
+        font-size: 34.5px;
+        line-height: 40.43px;
+    }
+
+    #autoParts {
+        height: 528.28px;
+    }
+
+    #aboutus {
+        height: 799.97px;
+    }
+
+    .p1-c {
+        width: 596.56px;
+        height: 66px;
+        font-size: 14.38px;
+        line-height: 21.56px;
+    }
+
+    .abt-p2 {
+        margin-top: 35px;
+    }
+
+    .p2-c {
+        width: 705.81px;
+        height: 110px;
+        font-size: 14.38px;
+        line-height: 21.56px;
+    }
+
+    .abt-img {
+        margin-top: 35px;
+        height: 368px;
+        width: 368px;
+    }
+
+    form {
+        gap: 36px;
+    }
+
+    .form-h {
+        margin-top: 51px;
+        font-size: 17.25px;
+        line-height: 25.88px;
+    }
+
+    .con-in {
+        margin-top: 16px;
+        font-size: 17.25px;
+        line-height: 25.88px;
+        margin-top: 16px;
+        width: 424.78px;
+        height: 70.44px;
+        border: 1.44px solid #D6D6D6;
+    }
+
+    textarea {
+        margin-top: 16px;
+        font-size: 17.25px;
+        line-height: 25.88px;
+        margin-top: 16px;
+        width: 424.78px;
+        height: 235.03px;
+        border: 1.44px solid #D6D6D6;
+    }
+
+    footer {
+        margin-top: 64px;
+        height: 62.29px;
+        font-size: 12.58px;
+        line-height: 26.95px;
+    }
+
+}
+
+@media screen and (max-width : 1150px) {
+    header {
+        height: 462.99px;
+    }
+
+    nav {
+        height: 61.12px;
+        gap: 28px;
+    }
+
+    .navbar-links {
+        font-size: 11.98px;
+        line-height: 17.97px;
+    }
+
+    .h-content {
+        height: 400px;
+    }
+
+    .h-main {
+        width: 412px;
+        height: 88px;
+        font-size: 28.75px;
+        line-height: 43.61px;
+    }
+
+    .h-btn {
+        margin-top: 35px;
+        width: 146.74px;
+        height: 38.33px;
+        border-radius: 2.99px;
+        font-size: 12.58px;
+        line-height: 19.08px;
+    }
+
+    .it-head {
+        margin-top: 56px;
+        height: 44px;
+        font-size: 28.75px;
+        line-height: 43.61px;
+    }
+
+    .image-slider {
+        margin-top: 56px;
+        height: 238.39px;
+        gap: 18px;
+    }
+
+    .it-img {
+        height: 238.39px;
+        width: 279.71px;
+    }
+
+    .overlay-img1 {
+        height: 238.39px;
+        width: 279.71px;
+    }
+
+    .o-h {
+        margin-top: 30px;
+        margin-left: 12px;
+        font-size: 14px;
+        line-height: 21.24px;
+    }
+
+    .o-p {
+        margin-top: 25px;
+        margin-left: 12px;
+        font-size: 9px;
+        line-height: 13.65px;
+    }
+
+    .o-link {
+        /* margin-top: 30px; */
+        margin-left: 12px;
+        font-size: 12px;
+        line-height: 18.2px;
+    }
+
+    .c-1 {
+        left: 138px;
+    }
+
+    .c-2 {
+        left: 733px;
+    }
+
+    .fa {
+        margin-top: 63px;
+        /* Change for Dot Navigation*/
+        height: 440.23px;
+    }
+
+    .fg-h {
+        padding: 60px 0px;
+        height: 34px;
+        font-size: 28.75px;
+        line-height: 33.69px;
+    }
+
+    #autoParts {
+        height: 440.23px;
+    }
+
+    #aboutus {
+        height: 666.64px;
+    }
+
+    .p1-c {
+        width: 497.14px;
+        height: 54px;
+        font-size: 11.98px;
+        line-height: 17.97px;
+    }
+
+    .abt-p2 {
+        margin-top: 33px;
+    }
+
+    .p2-c {
+        width: 588.18px;
+        height: 90px;
+        font-size: 11.98px;
+        line-height: 17.97px;
+    }
+
+    .abt-img {
+        margin-top: 28px;
+        height: 306.67px;
+        width: 306.67px;
+    }
+
+    form {
+        gap: 30px;
+    }
+
+    .form-h {
+        margin-top: 48px;
+        font-size: 14.38px;
+        line-height: 21.56px;
+    }
+
+    .con-in {
+        margin-top: 14px;
+        font-size: 14.38px;
+        line-height: 21.56px;
+        margin-top: 14px;
+        width: 353.98px;
+        height: 58.7px;
+        border: 1.2px solid #D6D6D6;
+    }
+
+    textarea {
+        margin-top: 14px;
+        font-size: 14.38px;
+        line-height: 21.56px;
+        margin-top: 14px;
+        width: 353.98px;
+        height: 195.86px;
+        border: 1.2px solid #D6D6D6;
+    }
+
+    footer {
+        margin-top: 51px;
+        height: 62.29px;
+        font-size: 12.58px;
+        line-height: 26.95px;
+    }
+
+}
+
+@media screen and (max-width : 992px) {
+    header {
+        height: 399.38px;
+    }
+
+    nav {
+        height: 52.2px;
+        gap: 25px;
+    }
+
+    .navbar-links {
+        font-size: 10.33px;
+        line-height: 15.5px;
+    }
+
+    .h-content {
+        height: 346px;
+    }
+
+    .h-main {
+        width: 356px;
+        height: 76px;
+        font-size: 24.8px;
+        line-height: 37.62px;
+    }
+
+    .h-btn {
+        margin-top: 30px;
+        width: 126.58px;
+        height: 33.07px;
+        border: none;
+        border-radius: 2.58px;
+        font-size: 10.85px;
+        line-height: 16.46px;
+    }
+
+    .it-head {
+        margin-top: 48px;
+        height: 38px;
+        font-size: 24.8px;
+        line-height: 37.62px;
+    }
+
+    .image-slider {
+        margin-top: 48px;
+        height: 205.63px;
+        gap: 15px;
+    }
+
+    .it-img {
+        height: 205.63px;
+        width: 241.28px;
+    }
+
+    .overlay-img1 {
+        height: 205.63px;
+        width: 241.28px;
+    }
+
+    .o-h {
+        margin-top: 15px;
+        margin-left: 7px;
+        font-size: 14px;
+        line-height: 21.24px;
+    }
+
+    .o-p {
+        margin-top: 20px;
+        margin-left: 7px;
+        font-size: 9px;
+        line-height: 13.65px;
+    }
+
+    .o-link {
+        /* margin-top: 15px; */
+        margin-left: 7px;
+        font-size: 12px;
+        line-height: 18.2px;
+    }
+
+    .c-1 {
+        left: 119px;
+    }
+
+    .c-2 {
+        left: 632px;
+    }
+
+    .fa {
+        margin-top: 53px;
+        /* Change for Dot Navigation*/
+        height: 379.75px;
+    }
+
+    .fg-h {
+        padding: 50px 0px;
+        height: 29px;
+        font-size: 24.8px;
+        line-height: 29.06px;
+    }
+
+    #autoParts {
+        height: 379.75px;
+    }
+
+    #aboutus {
+        height: 575.05px;
+    }
+
+    .p1-c {
+        width: 428.83px;
+        height: 45px;
+        font-size: 10.33px;
+        line-height: 15.5px;
+    }
+
+    .abt-p2 {
+        margin-top: 26px;
+    }
+
+    .p2-c {
+        width: 507.37px;
+        height: 75px;
+        font-size: 10.33px;
+        line-height: 15.5px;
+    }
+
+    .abt-img {
+        margin-top: 26px;
+        height: 264.53px;
+        width: 264.53px;
+    }
+
+    form {
+        gap: 25px;
+    }
+
+    .form-h {
+        margin-top: 40px;
+        font-size: 12.4px;
+        line-height: 18.6px;
+    }
+
+    .con-in {
+        margin-top: 8px;
+        font-size: 12.4px;
+        line-height: 18.6px;
+        margin-top: 8px;
+        width: 305.35px;
+        height: 50.63px;
+        border: 1.03px solid #D6D6D6;
+    }
+
+    textarea {
+        margin-top: 8px;
+        font-size: 12.4px;
+        line-height: 18.6px;
+        margin-top: 8px;
+        width: 305.35px;
+        height: 168.95px;
+        border: 1.03px solid #D6D6D6;
+    }
+
+    footer {
+        margin-top: 45px;
+        height: 53.73px;
+        font-size: 10.85px;
+        line-height: 23.25px;
+    }
+
+}
+
+@media screen and (max-width:750px) {
+    header {
+        height: 301.95px;
+    }
+
+    nav {
+        height: 40.12px;
+        gap: 17px;
+    }
+
+    .navbar-links {
+        font-size: 7.81px;
+        line-height: 11.72px;
+    }
+
+    .h-content {
+        height: 261.83px;
+    }
+
+    .h-main {
+        width: 269px;
+        height: 56px;
+        font-size: 18.75px;
+        line-height: 28.44px;
+    }
+
+    .h-btn {
+        margin-top: 24px;
+        width: 95.7px;
+        height: 25px;
+        border-radius: 1.95px;
+        font-size: 8.2px;
+        line-height: 12.44px;
+    }
+
+    .it-head {
+        margin-top: 40px;
+        height: 28px;
+        font-size: 18.75px;
+        line-height: 28.44px;
+    }
+
+    .image-slider {
+        margin-top: 40px;
+        height: 155.47px;
+        gap: 4px;
+    }
+
+    .it-img {
+        height: 182.42px;
+        width: 155.47px;
+    }
+
+    .overlay-img1 {
+        height: 182.42px;
+        width: 155.47px;
+    }
+
+    .o-h {
+        margin-top: 9px;
+        margin-left: 12px;
+        font-size: 8.52px;
+        line-height: 12.927px;
+    }
+
+    .o-p {
+        margin-top: 16px;
+        margin-left: 12px;
+        font-size: 5.966px;
+        line-height: 9.049px;
+    }
+
+    .o-link {
+        /* margin-top: 8px; */
+        margin-left: 12px;
+        font-size: 7.67px;
+        line-height: 11.635px;
+    }
+
+    .c-1 {
+        left: 137px;
+    }
+
+    .c-2 {
+        left: 457px;
+    }
+
+    .fa {
+        margin-top: 40px;
+        /* Change for Dot Navigation*/
+        height: 287.11px;
+    }
+
+    .fg-h {
+        padding: 40px 0px;
+        height: 9px;
+        font-size: 18.75px;
+        line-height: 21.97px;
+    }
+
+    #autoParts {
+        height: 287.11px;
+    }
+
+    #aboutus {
+        height: 434.77px;
+    }
+
+    .p1-c {
+        width: 324.22px;
+        height: 36px;
+        font-size: 7.81px;
+        line-height: 11.72px;
+    }
+
+    .abt-p2 {
+        margin-top: 18px;
+    }
+
+    .p2-c {
+        width: 383.59px;
+        height: 60px;
+        font-size: 7.81px;
+        line-height: 11.72px;
+    }
+
+    .abt-img {
+        margin-top: 18px;
+        height: 200px;
+        width: 200px;
+    }
+
+    form {
+        gap: 20px;
+    }
+
+    .form-h {
+        margin-top: 28px;
+        font-size: 3.75px;
+        line-height: 5.63px;
+    }
+
+    .con-in {
+        margin-top: 8px;
+        font-size: 3.75px;
+        line-height: 5.63px;
+        margin-top: 8px;
+        width: 230.86px;
+        height: 38.28px;
+        border: 0.78px solid #D6D6D6;
+    }
+
+    textarea {
+        margin-top: 8px;
+        font-size: 3.75px;
+        line-height: 5.63px;
+        margin-top: 8px;
+        width: 230.86px;
+        height: 127.73px;
+        border: 0.78px solid #D6D6D6;
+    }
+
+    footer {
+        margin-top: 35px;
+        height: 40.63px;
+        font-size: 8.2px;
+        line-height: 17.58px;
+    }
+
+
+}
+
+@media screen and (max-width : 450px) {
+    header {
+        height: 181.17px;
+    }
+
+    nav {
+        height: 23.88px;
+        gap: 12px;
+    }
+
+    .navbar-links {
+        font-size: 4.69px;
+        line-height: 7.03px;
+    }
+
+    .h-content {
+        height: 157px;
+    }
+
+    .h-main {
+        width: 162px;
+        height: 34px;
+        font-size: 11.25px;
+        line-height: 17.06px;
+    }
+
+    .h-btn {
+        margin-top: 16px;
+        width: 57.42px;
+        height: 15px;
+        border-radius: 1.17px;
+        font-size: 4.92px;
+        line-height: 7.47px;
+    }
+
+    .it-head {
+        margin-top: 21px;
+        height: 17px;
+        font-size: 11.25px;
+        line-height: 17.06px;
+    }
+
+    .image-slider {
+        margin-top: 21px;
+        height: 93.28px;
+        gap: 7px;
+    }
+
+    .it-img {
+        height: 109.45px;
+        width: 93.28px;
+    }
+
+    .overlay-img1 {
+        height: 109.45px;
+        width: 93.28px;
+    }
+
+    .o-h {
+        margin-top: 9px;
+        margin-left: 7px;
+        font-size: 6px;
+        line-height: 9.101px;
+    }
+
+    .o-p {
+        margin-top: 11px;
+        margin-left: 7px;
+        font-size: 4.2px;
+        line-height: 6.371px;
+    }
+
+    .o-link {
+        /* margin-top: 5px; */
+        margin-left: 7px;
+        font-size: 6px;
+        line-height: 9.1px;
+    }
+
+    .c-1 {
+        left: 78px;
+    }
+
+    .c-2 {
+        left: 278px;
+    }
+
+    .fa {
+        margin-top: 24px;
+        /* Change for Dot Navigation*/
+        height: 172.27px;
+    }
+
+    .fg-h {
+        padding: 24px 0px;
+        height: 13px;
+        font-size: 11.25px;
+        line-height: 13.18px;
+    }
+
+    #autoParts {
+        height: 172.27px;
+    }
+
+    #aboutus {
+        height: 260.86px;
+    }
+
+    .p1-c {
+        width: 194.53px;
+        height: 21px;
+        font-size: 4.69px;
+        line-height: 7.03px;
+    }
+
+    .abt-p2 {
+        margin-top: 13px;
+    }
+
+    .p2-c {
+        width: 230.16px;
+        height: 35px;
+        font-size: 4.69px;
+        line-height: 7.03px;
+    }
+
+    .abt-img {
+        margin-top: 12px;
+        height: 120px;
+        width: 120px;
+    }
+
+    form {
+        gap: 12px;
+    }
+
+    .form-h {
+        margin-top: 19px;
+        font-size: 5.63px;
+        line-height: 8.44px;
+    }
+
+    .con-in {
+        margin-top: 6px;
+        font-size: 5.63px;
+        line-height: 8.44px;
+        margin-top: 6px;
+        width: 138.52px;
+        height: 22.97px;
+        border: 0.47px solid #D6D6D6;
+    }
+
+    textarea {
+        margin-top: 6px;
+        font-size: 5.63px;
+        line-height: 8.44px;
+        margin-top: 6px;
+        width: 138.52px;
+        height: 76.64px;
+        border: 0.47px solid #D6D6D6;
+    }
+
+    footer {
+        margin-top: 21px;
+        height: 11px;
+        font-size: 4.92px;
+        line-height: 10.55px;
+    }
+}
+
+@media screen and (max-width:300px) {
+    header {
+        height: 120.78px;
+    }
+
+    nav {
+        height: 16.26px;
+        gap: 7px;
+    }
+
+    .navbar-links {
+        font-size: 3.13px;
+        line-height: 4.69px;
+    }
+
+    .h-content {
+        height: 104px;
+    }
+
+    .h-main {
+        width: 108px;
+        height: 22px;
+        font-size: 7.5px;
+        line-height: 11.38px;
+    }
+
+    .h-btn {
+        margin-top: 30px;
+        width: 38.28px;
+        height: 10px;
+        border-radius: 0.90px;
+        font-size: 3.28px;
+        line-height: 4.98px;
+    }
+
+    .it-head {
+        margin-top: 12px;
+        height: 11px;
+        font-size: 7.5px;
+        line-height: 11.38px;
+    }
+
+    .image-slider {
+        margin-top: 12px;
+        height: 62.19px;
+        gap: 4px;
+    }
+
+    .it-img {
+        height: 62.19px;
+        width: 72.97px;
+    }
+
+    .overlay-img1 {
+        height: 62.19px;
+        width: 72.97px;
+    }
+
+    .o-h {
+        margin-top: 5px;
+        margin-left: 5px;
+        font-size: 4px;
+        line-height: 6.07px;
+    }
+
+    .o-p {
+        margin-top: 8px;
+        margin-left: 5px;
+        font-size: 2.8px;
+        line-height: 4.25px;
+    }
+
+    .o-link {
+        /* margin-top: 8px; */
+        margin-left: 5px;
+        font-size: 3.6px;
+        line-height: 5.46px;
+    }
+
+    .c-1 {
+        left: 37px;
+    }
+
+    .c-2 {
+        left: 190px;
+    }
+
+    .fa {
+        margin-top: 15px;
+        /* Change for Dot Navigation*/
+        height: 114.84px;
+    }
+
+    .fg-h {
+        padding: 15px 0px;
+        height: 9px;
+        font-size: 7.5px;
+        line-height: 8.79px;
+    }
+
+    #autoParts {
+        height: 114.84px;
+    }
+
+    #aboutus {
+        height: 173.91px;
+    }
+
+    .p1-c {
+        width: 129.69px;
+        height: 15px;
+        font-size: 3.13px;
+        line-height: 4.69px;
+    }
+
+    .abt-p2 {
+        margin-top: 8px;
+    }
+
+    .p2-c {
+        width: 153.44px;
+        height: 25px;
+        font-size: 3.13px;
+        line-height: 4.69px;
+    }
+
+    .abt-img {
+        margin-top: 6px;
+        height: 80px;
+        width: 80px;
+    }
+
+    form {
+        gap: 8px;
+    }
+
+    .form-h {
+        margin-top: 11px;
+        font-size: 3.75px;
+        line-height: 5.63px;
+    }
+
+    .con-in {
+        margin-top: 3px;
+        font-size: 3.75px;
+        line-height: 5.63px;
+        margin-top: 3px;
+        width: 92.34px;
+        height: 15.31px;
+        border: 0.31px solid #D6D6D6;
+    }
+
+    textarea {
+        margin-top: 3px;
+        font-size: 3.75px;
+        line-height: 5.63px;
+        margin-top: 3px;
+        width: 92.34px;
+        height: 51.09px;
+        border: 0.31px solid #D6D6D6;
+    }
+
+    footer {
+        margin-top: 13px;
+        height: 8px;
+        font-size: 3.28px;
+        line-height: 7.03px;
+    }
+
+}
